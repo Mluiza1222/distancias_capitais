@@ -1,0 +1,19 @@
+table, tr, td{
+    border: solid 1px black;
+    font-family: franklin gothiv medium;
+    font-style; italic;
+    text-align: center;
+}
+
+#cor{
+    background-color: blue;
+    text-align: center;
+}
+
+#coor{
+    background-color: black;
+}
+
+#cidade{
+    background-color: yellow;
+}

@@ -8,10 +8,11 @@ table, tr, td{
 #cor{
     background-color: blue;
     text-align: center;
+    color: aliceblue;
 }
 
 #coor{
-    background-color: black;
+    background: linear-gradient(to right, #ff00dd, #785494);
 }
 
 #cidade{

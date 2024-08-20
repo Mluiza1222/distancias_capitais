@@ -4,10 +4,10 @@ Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvim
 
 ## Índice
 
-* [Descrição]()
-* [Tecnologias]()
-* [Referências]()
-* [Autor(a)]()
+* [Descrição](#descrição)
+* [Tecnologias](#tecnologias)
+* [Referências](#referência)
+* [Autor(a)](#autora)
 
 ### Descrição 
 
@@ -21,8 +21,26 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * Porto Alegre
 * Porto Velho
 
-## Tecnologia
+## Tecnologias
+
+* HTML5 
+* CSS3
+* README
+* Git
+* Github
 
 ## Referência
 
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github.
+
 ## Autor(a)
+
+O projeto foi desenvolvido pelo grupo:
+
+* Ana Julia Oliveira Viana
+* Isabelly dos Reis Santos
+* Larissa Aparecida Iuski
+* Maria Luíza Farias da Silva
+* Mariane Lima Remonte Viana
+* Vitor Gabriel de Souza
+* Vivian Oliveira Almeida

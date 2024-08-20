@@ -1,6 +1,13 @@
-# Projeto- Tabela de Distâncias 
+# Projeto- Tabela de Distâncias Entre Capitais Brasileiras
 
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web, ministrada pelo professor Leonardo Rocha.
+
+## Índice
+
+* [Descrição]()
+* [Tecnologias]()
+* [Referências]()
+* [Autor(a)]()
 
 ### Descrição 
 
@@ -9,12 +16,10 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * Macapá
 * Maceió
 * Manaus
-* Nanaus
+* Natal
 * Palmas
 * Porto Alegre
 * Porto Velho
-
-## Índice
 
 ## Tecnologia
 

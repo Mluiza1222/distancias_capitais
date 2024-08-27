@@ -21,6 +21,10 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * Porto Alegre
 * Porto Velho
 
+### Resultado do Projeto
+
+![Resultado final do projeto]()
+
 ## Tecnologias
 
 * HTML5 

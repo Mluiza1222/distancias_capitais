@@ -23,7 +23,22 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 
 ### Resultado do Projeto
 
-![Resultado final do projeto]()
+#### Tabela
+
+* Table - O table consiste o início da tabela.
+* Tr - O tr forma as linhas da tabela.
+
+Veja uma imagem de parte do código, onde é possivel identificar o uso dos elementos mencionados acima:
+
+![Estrtura do Table e do Tr](img/estrutura_tabela.png)
+
+* Td - O td adiciona o conteúdo dentro das células da tabela.
+
+![Estrutura do Td](img/estrutura_tabela_2.png)
+
+### Resultado da Tabela - Completo
+
+![Resultado final do projeto](img/resultado_final.png)
 
 ## Tecnologias
 

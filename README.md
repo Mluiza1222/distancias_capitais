@@ -40,6 +40,14 @@ Veja uma imagem de parte do código, onde é possivel identificar o uso dos elem
 
 ![Resultado final do projeto](img/resultado_final.png)
 
+### Estilização
+
+O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado main.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
+
+* Estilo de cores
+
+
+
 ## Tecnologias
 
 * HTML5 

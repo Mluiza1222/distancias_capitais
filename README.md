@@ -44,10 +44,13 @@ Veja uma imagem de parte do código, onde é possivel identificar o uso dos elem
 
 O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado main.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
 
-* Estilo de cores
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
 
-
-
+```
+#cidade{
+    background-color: yellow;
+}
+```
 ## Tecnologias
 
 * HTML5 
